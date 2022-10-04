@@ -34,5 +34,5 @@ You can find and get touch with me on these accounts 👀
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
-  <img  src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbarshokh)](https://github.com/Akbarshokh/github-readme-stats)" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashimov23&layout=compact&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Akbarshokh&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbarshokh&layout=compact&theme=dark" />
 </p>
