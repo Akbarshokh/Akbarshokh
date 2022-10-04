@@ -13,7 +13,7 @@ Python, OOP, Django, Django-Rest-Framework, SQL, Postgresql, Docker, Heroku , Sw
 
 You can find and get touch with me on these accounts 👀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)]((https://www.linkedin.com/in/akbarshokh-ravshanbekov-987130197/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/akbarshokh-ravshanbekov-987130197) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akbarshokh2001@gmail.com)](mailto:akbarshokh2001@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whereisakbar)
 <br />
