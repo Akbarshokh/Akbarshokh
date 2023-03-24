@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Akbarshokh Ravshanbekov**, Backend Developer | Python | Django  
+✨ My name is **Akbarshokh Ravshanbekov**, Backend Developer | Python | Django | Go
 
 Results-oriented and strong motivated software developer with 1+ years of experience in Backend development. Attentive to details, with problem-solving skills. Have the ability to create a highly readable and easily maintainable source code. Striving to learn new technologies, constantly developing myself in a rapidly changing industry. Got experince by doing internships and freelancing.
 
