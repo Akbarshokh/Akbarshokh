@@ -20,7 +20,7 @@ You can find and get touch with me on these accounts 👀
 
 
 ## 👨🏻‍💻 Languages and Tools:[
-<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
